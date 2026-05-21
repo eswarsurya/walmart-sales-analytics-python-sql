@@ -26,6 +26,6 @@ The notebooks folder is for Python analysis. The sql folder is for query work. T
 
 Outputs include exploratory analysis, SQL based sales summaries, visual reporting, and a business focused presentation of key findings.
 
-## How Recruiters Should Review This
+## Project Walkthrough
 
-Review this README first, then check the notebook and SQL files. This project shows practical Python and SQL analytics for a familiar retail business problem.
+A good way to explore this project is to start with the README, then move into the notebook, SQL files, and reporting materials as they are added.
