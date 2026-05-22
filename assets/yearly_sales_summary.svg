@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="420" viewBox="0 0 820 420" role="img" aria-labelledby="title desc">
+  <title id="title">Walmart Yearly Sales Summary</title>
+  <desc id="desc">Bar chart showing sales totals for 2010, 2011, and 2012.</desc>
+  <rect width="820" height="420" fill="#f8fafc"/>
+  <text x="40" y="55" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Yearly Sales Summary</text>
+  <text x="40" y="85" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">Walmart weekly sales dataset, 2010 to 2012</text>
+  <text x="70" y="340" font-family="Arial" font-size="15" fill="#111827">2010</text><rect x="120" y="150" width="150" height="170" fill="#2563eb" rx="4"/><text x="126" y="140" font-family="Arial" font-size="14" fill="#111827">$2.29B</text>
+  <text x="340" y="340" font-family="Arial" font-size="15" fill="#111827">2011</text><rect x="390" y="125" width="150" height="195" fill="#0f766e" rx="4"/><text x="396" y="115" font-family="Arial" font-size="14" fill="#111827">$2.45B</text>
+  <text x="610" y="340" font-family="Arial" font-size="15" fill="#111827">2012</text><rect x="660" y="180" width="100" height="140" fill="#f59e0b" rx="4"/><text x="646" y="170" font-family="Arial" font-size="14" fill="#111827">$2.00B</text>
+  <text x="40" y="385" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">2012 is a partial-year range in the dataset, ending on 2012-10-26.</text>
+</svg>
