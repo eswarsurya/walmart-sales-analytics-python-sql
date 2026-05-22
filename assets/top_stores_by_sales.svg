@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460" viewBox="0 0 820 460" role="img" aria-labelledby="title desc">
+  <title id="title">Top Walmart Stores By Sales</title>
+  <desc id="desc">Bar chart showing top Walmart stores by total weekly sales.</desc>
+  <rect width="820" height="460" fill="#f8fafc"/>
+  <text x="40" y="55" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Top Stores By Total Weekly Sales</text>
+  <text x="40" y="85" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">Public-safe aggregate from 6,435 store-week records</text>
+  <text x="40" y="140" font-family="Arial, sans-serif" font-size="14" fill="#111827">Store 20</text><rect x="130" y="120" width="520" height="28" fill="#2563eb" rx="4"/><text x="670" y="140" font-family="Arial" font-size="14" fill="#111827">$301.4M</text>
+  <text x="40" y="185" font-family="Arial, sans-serif" font-size="14" fill="#111827">Store 4</text><rect x="130" y="165" width="517" height="28" fill="#0f766e" rx="4"/><text x="670" y="185" font-family="Arial" font-size="14" fill="#111827">$299.5M</text>
+  <text x="40" y="230" font-family="Arial, sans-serif" font-size="14" fill="#111827">Store 14</text><rect x="130" y="210" width="499" height="28" fill="#7c3aed" rx="4"/><text x="670" y="230" font-family="Arial" font-size="14" fill="#111827">$289.0M</text>
+  <text x="40" y="275" font-family="Arial, sans-serif" font-size="14" fill="#111827">Store 13</text><rect x="130" y="255" width="494" height="28" fill="#f59e0b" rx="4"/><text x="670" y="275" font-family="Arial" font-size="14" fill="#111827">$286.5M</text>
+  <text x="40" y="320" font-family="Arial, sans-serif" font-size="14" fill="#111827">Store 2</text><rect x="130" y="300" width="475" height="28" fill="#0891b2" rx="4"/><text x="670" y="320" font-family="Arial" font-size="14" fill="#111827">$275.4M</text>
+  <text x="40" y="395" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Full raw data is represented through sample data and aggregate outputs.</text>
+</svg>
